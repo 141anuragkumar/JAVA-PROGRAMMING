@@ -1,0 +1,720 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "factorial",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Recursion.factorial",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "JavaProject",
+            "request": "launch",
+            "mainClass": "javaproject.JavaProject",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "JavaProject1",
+            "request": "launch",
+            "mainClass": "JavaProject1",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Student",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "JavaProject",
+            "request": "launch",
+            "mainClass": "JavaProject",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "NestedtryCatch",
+            "request": "launch",
+            "mainClass": "Exceptionh.NestedtryCatch",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "tryCatch",
+            "request": "launch",
+            "mainClass": "Exceptionh.tryCatch",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "String.Strings",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "trycatch",
+            "request": "launch",
+            "mainClass": "exceptionhandeling.trycatch",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Exception",
+            "request": "launch",
+            "mainClass": "Exceptionh.Exception",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Exception",
+            "request": "launch",
+            "mainClass": "Exception",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Hashset",
+            "request": "launch",
+            "mainClass": "Collections.Hashset",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Hashmap",
+            "request": "launch",
+            "mainClass": "Collections.Hashmap",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Array_List",
+            "request": "launch",
+            "mainClass": "Restart.Array_List",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList",
+            "request": "launch",
+            "mainClass": "Restart.ArrayList",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "RegularStudent$oops4",
+            "request": "launch",
+            "mainClass": "Restart.RegularStudent$oops4",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatement",
+            "request": "launch",
+            "mainClass": "Array.ConditionalStatement",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Car",
+            "request": "launch",
+            "mainClass": "Restart.Car",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Payment",
+            "request": "launch",
+            "mainClass": "Restart.Payment",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Operation",
+            "request": "launch",
+            "mainClass": "Restart.Operation",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Student",
+            "request": "launch",
+            "mainClass": "Restart.Student",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "oops4",
+            "request": "launch",
+            "mainClass": "Restart.oops4",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Array3",
+            "request": "launch",
+            "mainClass": "Restart.Array3",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "loop_based",
+            "request": "launch",
+            "mainClass": "Restart.loop_based",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Questions",
+            "request": "launch",
+            "mainClass": "Restart.Questions",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "conditions",
+            "request": "launch",
+            "mainClass": "Practice.conditions",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "Practice.a",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "trye",
+            "request": "launch",
+            "mainClass": "OOPS.trye",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "OOPS.first",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "Studentclass",
+            "request": "launch",
+            "mainClass": "PWoops.Studentclass",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "basic",
+            "request": "launch",
+            "mainClass": "basic",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "func_input",
+            "request": "launch",
+            "mainClass": "Function.func_input",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "concatenation",
+            "request": "launch",
+            "mainClass": "String.concatenation",
+            "projectName": "Java_d4278e78"
+        },
+        {
+            "type": "java",
+            "name": "concatenation",
+            "request": "launch",
+            "mainClass": "String.concatenation",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "Strings",
+            "request": "launch",
+            "mainClass": "String.Strings",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "avg",
+            "request": "launch",
+            "mainClass": "Practice.avg",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "continuestatement",
+            "request": "launch",
+            "mainClass": "Condition.continuestatement",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "function",
+            "request": "launch",
+            "mainClass": "function",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String.String",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "Basic",
+            "request": "launch",
+            "mainClass": "String.Basic",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "Question",
+            "request": "launch",
+            "mainClass": "Array.Question",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "loop.forloop",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "Questions",
+            "request": "launch",
+            "mainClass": "loop.Questions",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "Charpattern",
+            "request": "launch",
+            "mainClass": "Pattern.Charpattern",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "again",
+            "request": "launch",
+            "mainClass": "again",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "output",
+            "request": "launch",
+            "mainClass": "output",
+            "projectName": "JavaFile_406cfc14"
+        },
+        {
+            "type": "java",
+            "name": "again",
+            "request": "launch",
+            "mainClass": "again",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "Launch Java Program",
+            "request": "launch",
+            "mainClass": ""
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ConditionalStatement",
+            "request": "launch",
+            "mainClass": "Array.ConditionalStatement",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "MArks",
+            "request": "launch",
+            "mainClass": "Array.MArks",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "logicalStatement",
+            "request": "launch",
+            "mainClass": "Array.logicalStatement",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "chardatatype",
+            "request": "launch",
+            "mainClass": "Char.chardatatype",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "Condition.EvenOdd",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "continuestatement",
+            "request": "launch",
+            "mainClass": "Condition.continuestatement",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "largestinthreenum",
+            "request": "launch",
+            "mainClass": "Condition.largestinthreenum",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "percentagecalculator",
+            "request": "launch",
+            "mainClass": "Condition.percentagecalculator",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "revision",
+            "request": "launch",
+            "mainClass": "Condition.revision",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "squareornot",
+            "request": "launch",
+            "mainClass": "Condition.squareornot",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "threedigitnumber",
+            "request": "launch",
+            "mainClass": "Condition.threedigitnumber",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "triangleornot",
+            "request": "launch",
+            "mainClass": "Condition.triangleornot",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "twodignum",
+            "request": "launch",
+            "mainClass": "Condition.twodignum",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "New",
+            "request": "launch",
+            "mainClass": "New",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "Charpattern",
+            "request": "launch",
+            "mainClass": "Pattern.Charpattern",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "Numalphabet",
+            "request": "launch",
+            "mainClass": "Pattern.Numalphabet",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "Starsquarepattern",
+            "request": "launch",
+            "mainClass": "Pattern.Starsquarepattern",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "javainput",
+            "request": "launch",
+            "mainClass": "Pattern.javainput",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "numpattern",
+            "request": "launch",
+            "mainClass": "Pattern.numpattern",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "prymidwithalpha",
+            "request": "launch",
+            "mainClass": "Pattern.prymidwithalpha",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "pyramid",
+            "request": "launch",
+            "mainClass": "Pattern.pyramid",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "trianglepattern",
+            "request": "launch",
+            "mainClass": "Pattern.trianglepattern",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "trianglereverse",
+            "request": "launch",
+            "mainClass": "Pattern.trianglereverse",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "tripattern",
+            "request": "launch",
+            "mainClass": "Pattern.tripattern",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "a",
+            "request": "launch",
+            "mainClass": "Practice.a",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "basic.Addition",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "claculator",
+            "request": "launch",
+            "mainClass": "basic.claculator",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "addition",
+            "request": "launch",
+            "mainClass": "javainput.addition",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "areaofcircle",
+            "request": "launch",
+            "mainClass": "javainput.areaofcircle",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "arithmatic",
+            "request": "launch",
+            "mainClass": "javainput.arithmatic",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "chardatattypee",
+            "request": "launch",
+            "mainClass": "javainput.chardatattypee",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "firstjavaprogram",
+            "request": "launch",
+            "mainClass": "javainput.firstjavaprogram",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "incridecriment",
+            "request": "launch",
+            "mainClass": "javainput.incridecriment",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "inputtouser",
+            "request": "launch",
+            "mainClass": "javainput.inputtouser",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "multivar",
+            "request": "launch",
+            "mainClass": "javainput.multivar",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "variablesint",
+            "request": "launch",
+            "mainClass": "javainput.variablesint",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "ASCIIIvalue",
+            "request": "launch",
+            "mainClass": "loop.ASCIIIvalue",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "Dowhileloop",
+            "request": "launch",
+            "mainClass": "loop.Dowhileloop",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "While",
+            "request": "launch",
+            "mainClass": "loop.While",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "countdigit",
+            "request": "launch",
+            "mainClass": "loop.countdigit",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "factlinbyline",
+            "request": "launch",
+            "mainClass": "loop.factlinbyline",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "loop.factorial",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "findAP",
+            "request": "launch",
+            "mainClass": "loop.findAP",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "forloop",
+            "request": "launch",
+            "mainClass": "loop.forloop",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "print19table",
+            "request": "launch",
+            "mainClass": "loop.print19table",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "printAtoZinloop",
+            "request": "launch",
+            "mainClass": "loop.printAtoZinloop",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "printevennum1t0100",
+            "request": "launch",
+            "mainClass": "loop.printevennum1t0100",
+            "projectName": "java first_2148dee8"
+        },
+        {
+            "type": "java",
+            "name": "test",
+            "request": "launch",
+            "mainClass": "test",
+            "projectName": "java first_2148dee8"
+        }
+    ]
+}
