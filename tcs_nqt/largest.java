@@ -9,6 +9,6 @@ public class largest {
                 largest = number[i];
             }
         }
-        System.out.println("Largest : "+largest);
+        System.out.println("Largest : "+largest); 
     }
 }
