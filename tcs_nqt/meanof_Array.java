@@ -9,5 +9,5 @@ public class meanof_Array {
         }
         Double mean = (double)sum / number.length;
         System.out.println("Mean of an Aarray is : "+mean);
-    }
+    } 
 }
