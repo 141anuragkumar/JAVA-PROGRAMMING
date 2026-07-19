@@ -18,5 +18,6 @@ public class shorted_or_not {
         else{
             System.out.println("Array is not sorted");
         }
+
     }
 }
