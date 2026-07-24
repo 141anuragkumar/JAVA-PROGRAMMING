@@ -21,5 +21,4 @@ public class secondLargest {
     System.out.print("SecondLargest : "+secondLargest);
     }
     
-    
 }
