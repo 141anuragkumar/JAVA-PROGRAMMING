@@ -5,7 +5,7 @@ package tcs_nqt;
 public class stocksBuySell {
     public static void main(String[] args) {
         
-        int[] price = {7,1,5,3,6,4};
+        int[] price = {10,5,8,2,4,6};//7,1,5,3,6,9
 
         int minPrice = price[0];
         int maxProfit = 0;
