@@ -1,3 +1,4 @@
+package tcs_nqt;
 public class equalSum {
     // Hume check karna hai ki kisi ek index par array ko do parts mein 
     // divide karne par left side ka sum aur right side ka sum equal hai ya fir nahi
